@@ -11,5 +11,6 @@
         <module name="2학년프로젝트.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
   </component>
 </project>
