@@ -4,6 +4,7 @@ import com.dogether.web.domain.posts.Posts;
 import com.dogether.web.domain.posts.PostsRepository;
 import com.dogether.web.dto.PostsResponseDto;
 import com.dogether.web.dto.PostsSaveRequestDto;
+import com.dogether.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
